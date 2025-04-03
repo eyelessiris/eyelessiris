@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything!
 - 🌱 I’m currently learning C, Python, Discord.JS(Node.JS)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me => eyelessiris@hotmail.com
+- 📫 How to reach me => iris@eyelessiris.xyz
 - ⚡ Fun fact: I love Tekken!
 
 <!---
