@@ -1,1 +1,1 @@
-`What do you live for?`
+바보입니다.
